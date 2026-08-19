@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a04a4584-f5b3-4f46-8744-15b88abfd368" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/ecommerce-rest-api/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/ecommerce-rest-api/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce-rest-api/logs/ecommerce-rest-api.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce-rest-api/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ecommerce-rest-api/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce-rest-api/src/main/java/com/example/ecommerce/config/AuditingConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce-rest-api/src/main/java/com/example/ecommerce/config/StaticResourceConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce-rest-api/src/main/java/com/example/ecommerce/config/WebConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/ecommerce-rest-api/src/main/java/com/example/ecommerce/config/WebConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce-rest-api/src/main/java/com/example/ecommerce/controller/v1/OrderController.java" beforeDir="false" afterPath="$PROJECT_DIR$/ecommerce-rest-api/src/main/java/com/example/ecommerce/controller/v1/OrderController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce-rest-api/src/main/java/com/example/ecommerce/controller/v1/PaymentController.java" beforeDir="false" afterPath="$PROJECT_DIR$/ecommerce-rest-api/src/main/java/com/example/ecommerce/controller/v1/PaymentController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce-rest-api/src/main/java/com/example/ecommerce/controller/v1/ProductController.java" beforeDir="false" afterPath="$PROJECT_DIR$/ecommerce-rest-api/src/main/java/com/example/ecommerce/controller/v1/ProductController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce-rest-api/src/main/java/com/example/ecommerce/controller/v2/ProductV2Controller.java" beforeDir="false" afterPath="$PROJECT_DIR$/ecommerce-rest-api/src/main/java/com/example/ecommerce/controller/v2/ProductV2Controller.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce-rest-api/src/main/java/com/example/ecommerce/dto/order/CheckoutRequestDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/ecommerce-rest-api/src/main/java/com/example/ecommerce/dto/order/CheckoutRequestDto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce-rest-api/src/main/java/com/example/ecommerce/dto/order/OrderResponseDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/ecommerce-rest-api/src/main/java/com/example/ecommerce/dto/order/OrderResponseDto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce-rest-api/src/main/java/com/example/ecommerce/dto/payment/PaymentRequestDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/ecommerce-rest-api/src/main/java/com/example/ecommerce/dto/payment/PaymentRequestDto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce-rest-api/src/main/java/com/example/ecommerce/dto/payment/PaymentResponseDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/ecommerce-rest-api/src/main/java/com/example/ecommerce/dto/payment/PaymentResponseDto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce-rest-api/src/main/java/com/example/ecommerce/dto/product/ProductRequestDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/ecommerce-rest-api/src/main/java/com/example/ecommerce/dto/product/ProductRequestDto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce-rest-api/src/main/java/com/example/ecommerce/dto/product/ProductResponseDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/ecommerce-rest-api/src/main/java/com/example/ecommerce/dto/product/ProductResponseDto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce-rest-api/src/main/java/com/example/ecommerce/entity/Order.java" beforeDir="false" afterPath="$PROJECT_DIR$/ecommerce-rest-api/src/main/java/com/example/ecommerce/entity/Order.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce-rest-api/src/main/java/com/example/ecommerce/entity/OrderStatus.java" beforeDir="false" afterPath="$PROJECT_DIR$/ecommerce-rest-api/src/main/java/com/example/ecommerce/entity/enums/OrderStatus.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce-rest-api/src/main/java/com/example/ecommerce/entity/Payment.java" beforeDir="false" afterPath="$PROJECT_DIR$/ecommerce-rest-api/src/main/java/com/example/ecommerce/entity/Payment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce-rest-api/src/main/java/com/example/ecommerce/entity/PaymentMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/ecommerce-rest-api/src/main/java/com/example/ecommerce/entity/enums/PaymentMethod.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce-rest-api/src/main/java/com/example/ecommerce/entity/PaymentStatus.java" beforeDir="false" afterPath="$PROJECT_DIR$/ecommerce-rest-api/src/main/java/com/example/ecommerce/entity/enums/PaymentStatus.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce-rest-api/src/main/java/com/example/ecommerce/entity/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/ecommerce-rest-api/src/main/java/com/example/ecommerce/entity/Product.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce-rest-api/src/main/java/com/example/ecommerce/entity/ProductCategory.java" beforeDir="false" afterPath="$PROJECT_DIR$/ecommerce-rest-api/src/main/java/com/example/ecommerce/entity/enums/ProductCategory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce-rest-api/src/main/java/com/example/ecommerce/entity/ProductStatus.java" beforeDir="false" afterPath="$PROJECT_DIR$/ecommerce-rest-api/src/main/java/com/example/ecommerce/entity/enums/ProductStatus.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce-rest-api/src/main/java/com/example/ecommerce/exception/GlobalExceptionHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/ecommerce-rest-api/src/main/java/com/example/ecommerce/exception/GlobalExceptionHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce-rest-api/src/main/java/com/example/ecommerce/repository/CartItemRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/ecommerce-rest-api/src/main/java/com/example/ecommerce/repository/CartItemRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce-rest-api/src/main/java/com/example/ecommerce/repository/OrderRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/ecommerce-rest-api/src/main/java/com/example/ecommerce/repository/OrderRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce-rest-api/src/main/java/com/example/ecommerce/repository/PaymentRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/ecommerce-rest-api/src/main/java/com/example/ecommerce/repository/PaymentRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce-rest-api/src/main/java/com/example/ecommerce/repository/ProductRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/ecommerce-rest-api/src/main/java/com/example/ecommerce/repository/ProductRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce-rest-api/src/main/java/com/example/ecommerce/scheduler/OrderCancellationScheduler.java" beforeDir="false" afterPath="$PROJECT_DIR$/ecommerce-rest-api/src/main/java/com/example/ecommerce/scheduler/OrderCancellationScheduler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce-rest-api/src/main/java/com/example/ecommerce/service/OrderService.java" beforeDir="false" afterPath="$PROJECT_DIR$/ecommerce-rest-api/src/main/java/com/example/ecommerce/service/OrderService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce-rest-api/src/main/java/com/example/ecommerce/service/PaymentService.java" beforeDir="false" afterPath="$PROJECT_DIR$/ecommerce-rest-api/src/main/java/com/example/ecommerce/service/PaymentService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce-rest-api/src/main/java/com/example/ecommerce/service/ProductService.java" beforeDir="false" afterPath="$PROJECT_DIR$/ecommerce-rest-api/src/main/java/com/example/ecommerce/service/ProductService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce-rest-api/src/main/java/com/example/ecommerce/service/impl/CartItemServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/ecommerce-rest-api/src/main/java/com/example/ecommerce/service/impl/CartItemServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce-rest-api/src/main/java/com/example/ecommerce/service/impl/CustomerServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/ecommerce-rest-api/src/main/java/com/example/ecommerce/service/impl/CustomerServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce-rest-api/src/main/java/com/example/ecommerce/service/impl/OrderServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/ecommerce-rest-api/src/main/java/com/example/ecommerce/service/impl/OrderServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce-rest-api/src/main/java/com/example/ecommerce/service/impl/PaymentServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/ecommerce-rest-api/src/main/java/com/example/ecommerce/service/impl/PaymentServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce-rest-api/src/main/java/com/example/ecommerce/service/impl/ProductServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/ecommerce-rest-api/src/main/java/com/example/ecommerce/service/impl/ProductServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce-rest-api/src/main/java/com/example/ecommerce/service/impl/ShoppingCartServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/ecommerce-rest-api/src/main/java/com/example/ecommerce/service/impl/ShoppingCartServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce-rest-api/src/test/java/com/example/ecommerce/CustomerControllerTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce-rest-api/src/test/java/com/example/ecommerce/CustomerServiceTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce-rest-api/src/test/java/com/example/ecommerce/EcommerceRestApiApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce-rest-api/src/test/java/com/example/ecommerce/OrderServiceTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce-rest-api/src/test/java/com/example/ecommerce/ProductServiceTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce-rest-api/src/test/resources/application.properties" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/ecommerce-rest-api" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHomeTypeForPersistence" value="WRAPPER" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.8284049370118441E-270" />
+      <entry key="MS500" value="1.1282737316410376E-54" />
+      <entry key="S2" value="3.263633718916578E-14" />
+      <entry key="S5" value="4.658697461857092E-6" />
+      <entry key="S10" value="0.0035760030632142037" />
+      <entry key="S30" value="0.4183068557186846" />
+      <entry key="S60" value="1.4489198071693212" />
+      <entry key="M2" value="2.7904381716993854" />
+      <entry key="M5" value="4.313760764200087" />
+      <entry key="M10" value="5.060609227562026" />
+      <entry key="M15" value="5.349212911840125" />
+      <entry key="M30" value="5.66142726722137" />
+      <entry key="H1" value="5.827232680215335" />
+      <entry key="H2" value="5.9127214707998" />
+      <entry key="H4" value="5.956133849588243" />
+      <entry key="D1" value="5.992657189802692" />
+      <entry key="W1" value="5.998950245111511" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0000000000000413" />
+      <entry key="S2" value="1.0004518757410545" />
+      <entry key="S5" value="1.0501164274525738" />
+      <entry key="S10" value="1.296098671866878" />
+      <entry key="S30" value="2.471390408756892" />
+      <entry key="S60" value="3.571930608285288" />
+      <entry key="M2" value="4.53487364392725" />
+      <entry key="M5" value="5.337072750200563" />
+      <entry key="M10" value="5.65399221572643" />
+      <entry key="M15" value="5.765952844217616" />
+      <entry key="M30" value="5.88125136155157" />
+      <entry key="H1" value="5.9401872455401055" />
+      <entry key="H2" value="5.969983103810489" />
+      <entry key="H4" value="5.984963807516538" />
+      <entry key="D1" value="5.997490104759913" />
+      <entry key="W1" value="5.999641348801435" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="0.014884968719436526" />
+      <entry key="MS500" value="0.43107177250881346" />
+      <entry key="S2" value="0.8106379321043619" />
+      <entry key="S5" value="0.9645238043080524" />
+      <entry key="S10" value="1.24240785627416" />
+      <entry key="S30" value="2.845214145539182" />
+      <entry key="S60" value="4.984867842340887" />
+      <entry key="M2" value="7.299782941996776" />
+      <entry key="M5" value="9.636941602682322" />
+      <entry key="M10" value="10.706658611415058" />
+      <entry key="M15" value="11.109602293129832" />
+      <entry key="M30" value="11.539748347770947" />
+      <entry key="H1" value="11.765914631342174" />
+      <entry key="H2" value="11.881941481897474" />
+      <entry key="H4" value="11.940713446494167" />
+      <entry key="D1" value="11.990082884841287" />
+      <entry key="W1" value="11.998582383289394" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="3I4uTegUMwqENYaKzOvi1XMWBtH" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application..executor&quot;: &quot;Run&quot;,
+    &quot;Application.EcommerceApplication.executor&quot;: &quot;Run&quot;,
+    &quot;Maven.Unnamed.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;Spring Boot.EcommerceApplication.executor&quot;: &quot;Run&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Admin/OneDrive/Desktop/Java Traingin stackly/Springboot_Projects/ecommerce-rest-api/images&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Admin\OneDrive\Desktop\Java Traingin stackly\Springboot_Projects\ecommerce-rest-api\images" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.example.ecommerce.entity.enums" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <option name="ALTERNATIVE_JRE_PATH" value="24" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <module name="ecommerce-rest-api" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="ecommerce-rest-api" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-63390994e64e-intellij.indexing.shared.core-IU-262.8665.337" />
+        <option value="bundled-js-predefined-d6986cc7102b-4abd2a77f808-JavaScript-IU-262.8665.337" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a04a4584-f5b3-4f46-8744-15b88abfd368" name="Changes" comment="" />
+      <created>1787036177701</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1787036177701</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
