@@ -3,7 +3,6 @@
 Spring Boot REST API for the ShopAdmin application. It manages customers, products, shopping carts, cart items, orders, order items, and payments.
 
 ## Stack
-
 - Java 25
 - Spring Boot 3.4.13
 - Spring Web and Spring Data JPA
